@@ -1,4 +1,4 @@
-# Grep Cheatsheet: Your Quick Guide to Searching Files! 🚀
+# Grep: Your Quick Guide to Searching Files!
 
 **Grep** is your go-to command for finding lines in files that match a specific string or pattern. It’s fast, flexible, and a must-know for anyone working in the terminal. Let’s dive into the essentials!
 
