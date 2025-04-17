@@ -20,7 +20,7 @@ Embark on an exciting journey to master the Linux command line! This repository 
 
 Navigate the filesystem like a seasoned explorer! Learn about paths, directories, and how to find your way in the terminal wilderness.
 
-- [**01 - The Root**](https://github.com/uchihashahin01/Linux---Your-Friend/blob/main/01%20-%20Pondering%20Paths/01%20-%20The%20Root.markdown) *(Demo link to be uploaded)*
+- [**01 - The Root**](https://github.com/uchihashahin01/Linux---Your-Friend/blob/main/01%20-%20Pondering%20Paths/01%20-%20The%20Root.markdown)
 - **02 - Program and Absolute Paths** *(Demo link to be uploaded)*
 - **03 - Position Thy Self** *(Demo link to be uploaded)*
 - **04 - Implicit Relative Paths, from /** *(Demo link to be uploaded)*
