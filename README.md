@@ -34,18 +34,18 @@ Navigate the filesystem like a seasoned explorer! Learn about paths, directories
 
 Wield the power of Linux commands! From viewing files to creating directories, these lessons will turn you into a terminal wizard.
 
-- **01 - Cat: Not the Pet, but the Command!** *(Demo link to be uploaded)*
-- **02 - Catting Absolute Paths** *(Demo link to be uploaded)*
-- **03 - More Catting Practice** *(Demo link to be uploaded)*
-- **04 - Grepping for a Needle in a Haystack** *(Demo link to be uploaded)*
-- **05 - Listing Files** *(Demo link to be uploaded)*
-- **06 - Touching Files** *(Demo link to be uploaded)*
-- **07 - Removing Files** *(Demo link to be uploaded)*
-- **08 - Hidden Files** *(Demo link to be uploaded)*
-- **09 - An Epic Filesystem Quest** *(Demo link to be uploaded)*
-- **10 - Making Directories** *(Demo link to be uploaded)*
-- **11 - Finding Files** *(Demo link to be uploaded)*
-- **12 - Linking Files** *(Demo link to be uploaded)*
+- [**01 - Cat: Not the Pet, but the Command!**](#) *(Demo link to be uploaded)*
+- [**02 - Catting Absolute Paths**](#) *(Demo link to be uploaded)*
+- [**03 - More Catting Practice**](#) *(Demo link to be uploaded)*
+- [**04 - Grepping for a Needle in a Haystack**](#) *(Demo link to be uploaded)*
+- [**05 - Listing Files**](#) *(Demo link to be uploaded)*
+- [**06 - Touching Files**](#) *(Demo link to be uploaded)*
+- [**07 - Removing Files**](#) *(Demo link to be uploaded)*
+- [**08 - Hidden Files**](#) *(Demo link to be uploaded)*
+- [**09 - An Epic Filesystem Quest**](#) *(Demo link to be uploaded)*
+- [**10 - Making Directories**](#) *(Demo link to be uploaded)*
+- [**11 - Finding Files**](#) *(Demo link to be uploaded)*
+- [**12 - Linking Files***](#) *(Demo link to be uploaded)*
 
 ---
 
