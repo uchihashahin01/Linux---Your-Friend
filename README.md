@@ -23,8 +23,8 @@ Navigate the filesystem like a seasoned explorer! Learn about paths, directories
 - [**01 - The Root**](https://github.com/uchihashahin01/Linux---Your-Friend/blob/main/01%20-%20Pondering%20Paths/01%20-%20The%20Root.markdown)
 - [**02 - Program and Absolute Paths**](https://github.com/uchihashahin01/Linux---Your-Friend/blob/main/01%20-%20Pondering%20Paths/02%20-%20Program%20and%20Absolute%20Paths.markdown)
 - [**03 - Position Thy Self**](https://github.com/uchihashahin01/Linux---Your-Friend/blob/main/01%20-%20Pondering%20Paths/03%20-%20Position%20thy%20Self.markdown)
-- [**04 - Implicit Relative Paths, from /**](#) *(Demo link to be uploaded)*
-- [**05 - Explicit Relative Paths, from /**](#) *(Demo link to be uploaded)*
+- [**04 - Implicit Relative Paths, from /**](https://github.com/uchihashahin01/Linux---Your-Friend/blob/main/01%20-%20Pondering%20Paths/04%20-%20Implicit%20Relative%20Paths%2C%20from%20(backslash).markdown)
+- [**05 - Explicit Relative Paths, from /**](https://github.com/uchihashahin01/Linux---Your-Friend/blob/main/01%20-%20Pondering%20Paths/05%20-%20explicit%20relative%20paths%2C%20from%20().markdown)
 - [**06 - Implicit Relative Path**](#) *(Demo link to be uploaded)*
 - [**07 - Home Sweet Home**](#) *(Demo link to be uploaded)*
 
