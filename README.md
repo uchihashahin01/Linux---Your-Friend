@@ -7,7 +7,7 @@ Embark on an exciting journey to master the Linux command line! This repository 
 ## 📜 Table of Contents
 
 - [Pondering Paths 🗺️](https://github.com/uchihashahin01/Linux---Your-Friend/tree/main/01%20-%20Pondering%20Paths)
-- [Comprehending Commands ⚙️](#)
+- [Comprehending Commands ⚙️](https://github.com/uchihashahin01/Linux---Your-Friend/tree/main/02%20-%20Comprehending%20Commands)
 - [Digesting Documentation 📚](#)
 - [File Globbing 🌟](#)
 - [How to Use This Repository 🧭](#)
