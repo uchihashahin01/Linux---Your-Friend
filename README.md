@@ -34,10 +34,10 @@ Navigate the filesystem like a seasoned explorer! Learn about paths, directories
 
 Wield the power of Linux commands! From viewing files to creating directories, these lessons will turn you into a terminal wizard.
 
-- [**01 - Cat: Not the Pet, but the Command!**](#) *(Demo link to be uploaded)*
-- [**02 - Catting Absolute Paths**](#) *(Demo link to be uploaded)*
-- [**03 - More Catting Practice**](#) *(Demo link to be uploaded)*
-- [**04 - Grepping for a Needle in a Haystack**](#) *(Demo link to be uploaded)*
+- [**01 - Cat: Not the Pet, but the Command!**](https://github.com/uchihashahin01/Linux---Your-Friend/blob/main/02%20-%20Comprehending%20Commands/01%20-%20cat%2C%20not%20the%20pet%2C%20but%20the%20command!.markdown)
+- [**02 - Catting Absolute Paths**](https://github.com/uchihashahin01/Linux---Your-Friend/blob/main/02%20-%20Comprehending%20Commands/02%20-%20Catting%20Absolute%20Paths.markdown) 
+- [**03 - More Catting Practice**](https://github.com/uchihashahin01/Linux---Your-Friend/blob/main/02%20-%20Comprehending%20Commands/03%20-%20More%20Catting%20Practice.markdown) 
+- [**04 - Grepping for a Needle in a Haystack**](https://github.com/uchihashahin01/Linux---Your-Friend/blob/main/02%20-%20Comprehending%20Commands/04%20-%20Grepping%20for%20a%20Needle%20in%20a%20Haystack.markdown) 
 - [**05 - Listing Files**](#) *(Demo link to be uploaded)*
 - [**06 - Touching Files**](#) *(Demo link to be uploaded)*
 - [**07 - Removing Files**](#) *(Demo link to be uploaded)*
