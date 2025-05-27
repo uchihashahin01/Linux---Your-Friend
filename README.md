@@ -38,14 +38,14 @@ Wield the power of Linux commands! From viewing files to creating directories, t
 - [**02 - Catting Absolute Paths**](https://github.com/uchihashahin01/Linux---Your-Friend/blob/main/02%20-%20Comprehending%20Commands/02%20-%20Catting%20Absolute%20Paths.markdown) 
 - [**03 - More Catting Practice**](https://github.com/uchihashahin01/Linux---Your-Friend/blob/main/02%20-%20Comprehending%20Commands/03%20-%20More%20Catting%20Practice.markdown) 
 - [**04 - Grepping for a Needle in a Haystack**](https://github.com/uchihashahin01/Linux---Your-Friend/blob/main/02%20-%20Comprehending%20Commands/04%20-%20Grepping%20for%20a%20Needle%20in%20a%20Haystack.markdown) 
-- [**05 - Listing Files**](#) *(Demo link to be uploaded)*
-- [**06 - Touching Files**](#) *(Demo link to be uploaded)*
-- [**07 - Removing Files**](#) *(Demo link to be uploaded)*
-- [**08 - Hidden Files**](#) *(Demo link to be uploaded)*
-- [**09 - An Epic Filesystem Quest**](#) *(Demo link to be uploaded)*
-- [**10 - Making Directories**](#) *(Demo link to be uploaded)*
-- [**11 - Finding Files**](#) *(Demo link to be uploaded)*
-- [**12 - Linking Files***](#) *(Demo link to be uploaded)*
+- [**05 - Listing Files**](https://github.com/uchihashahin01/Linux---Your-Friend/blob/main/02%20-%20Comprehending%20Commands/05%20-%20Listing%20Files.markdown)
+- [**06 - Touching Files**](https://github.com/uchihashahin01/Linux---Your-Friend/blob/main/02%20-%20Comprehending%20Commands/06%20-%20Touching%20Files.markdown)
+- [**07 - Removing Files**](https://github.com/uchihashahin01/Linux---Your-Friend/blob/main/02%20-%20Comprehending%20Commands/07%20-%20Removing%20Files.markdown) 
+- [**08 - Hidden Files**](https://github.com/uchihashahin01/Linux---Your-Friend/blob/main/02%20-%20Comprehending%20Commands/08%20-%20Hidden%20Files.markdown) 
+- [**09 - An Epic Filesystem Quest**](https://github.com/uchihashahin01/Linux---Your-Friend/blob/main/02%20-%20Comprehending%20Commands/09%20-%20An%20Epic%20Filesystem%20Quest.markdown)
+- [**10 - Making Directories**](https://github.com/uchihashahin01/Linux---Your-Friend/blob/main/02%20-%20Comprehending%20Commands/10%20-%20Making%20Directories.markdown)
+- [**11 - Finding Files**](#) 
+- [**12 - Linking Files***](#)
 
 ---
 
